@@ -1,4 +1,4 @@
-![deprecated](https://img.shields.io/badge/deprecated-red?style=for-the-badge)
+[![deprecated](https://img.shields.io/badge/deprecated-red?style=for-the-badge)](https://www.youtube.com/watch?v=3sHrKeqIlt8)
 
 # Puzzle Picture — [ROOT framework (CERN)](https://root.cern/)
 
@@ -59,6 +59,8 @@ int main()
 
 [![puzzle-picture-ROOT — License](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)](LICENSE.md)
 [![ROOT - License](https://img.shields.io/badge/LICENSE-ROOT%20(GNU%20LGPL)-blue?style=for-the-badge)](https://root.cern/about/license/)
-[![FOSDEM 2026](http://img.shields.io/badge/FOSDEM%202026-red?style=for-the-badge)](https://archive.fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
-[![FOSDEM 2026](http://img.shields.io/badge/FOSDEM%202026-red?style=for-the-badge)](https://archive.fosdem.org/2026/schedule/event/L3BK7S-free-as-in-burned-out/)
-[![Code Quality?](http://img.shields.io/badge/Code%20Quality%3F-red?style=for-the-badge)](https://innovationgraph.github.com/global-metrics/git-pushes)
+[![FOSDEM 2026](https://img.shields.io/badge/FOSDEM%202026-red?style=for-the-badge)](https://archive.fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
+[![xkcd 2347](https://img.shields.io/badge/xkcd%202347-red?style=for-the-badge)](https://xkcd.com/2347/)
+[![XZ backdoor](https://img.shields.io/badge/XZ%20backdoor-red?style=for-the-badge)](https://en.wikipedia.org/wiki/XZ_Utils_backdoor)
+[![FOSDEM 2026](https://img.shields.io/badge/FOSDEM%202026-red?style=for-the-badge)](https://archive.fosdem.org/2026/schedule/event/L3BK7S-free-as-in-burned-out/)
+[![Code Quality?](https://img.shields.io/badge/Code%20Quality%3F-red?style=for-the-badge)](https://innovationgraph.github.com/global-metrics/git-pushes)
