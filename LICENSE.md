@@ -1,4 +1,4 @@
-# puzzle-picture-ROOT — License
+# puzzle-picture(-ROOT) — License
 
 Copyright © 2026 - MIT License - Marcel Dijkstra < [marcel.pragma@google.com](mailto:marcel.pragma@google.com) >
 
@@ -20,4 +20,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-[![puzzle-picture-ROOT — License](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)](https://mit-license.org/)
+[![puzzle-picture(-ROOT) — License](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)](https://mit-license.org/)
