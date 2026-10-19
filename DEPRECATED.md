@@ -55,5 +55,5 @@ int main()
 
 [References](REFERENCES.md)
 
-[![puzzle-picture-ROOT — License](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)](LICENSE.md)
+[![puzzle-picture(-ROOT) — License](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)](LICENSE.md)
 [![ROOT — License](https://img.shields.io/badge/LICENSE-ROOT%20(GNU%20LGPL)-blue?style=for-the-badge)](https://root.cern/about/license/)
