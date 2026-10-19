@@ -53,7 +53,7 @@ int main()
 
 > Kant's Axe? (No background in grammar?): "_[Alleen **zij** die groots **durven** te falen, **kunnen** ooit groots bereiken.](https://citaten.net/quotes/robert_f_kennedy/40114/citaat-alleen-wie-het-aandurft-om-groots-te-falen-krijgt-de-kans-om.html)_" — Robert F. Kennedy
 
-[References](REFERENCES.md)
+[References](REFERENCES-DEPRECATED.md)
 
-[![puzzle-picture-ROOT — License](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)](LICENSE.md)
+[![puzzle-picture(-ROOT) — License](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)](LICENSE.md)
 [![ROOT — License](https://img.shields.io/badge/LICENSE-ROOT%20(GNU%20LGPL)-blue?style=for-the-badge)](https://root.cern/about/license/)
