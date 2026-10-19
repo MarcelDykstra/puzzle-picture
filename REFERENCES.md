@@ -51,4 +51,4 @@ Olthuis, et al., Analyst, 4 (2007)](https://doi.org/10.1039/B616667A) — [M. Od
 
 "_[Pur ti miro, … più non peno, più non moro, …](https://www.youtube.com/watch?v=quhXDVX6jjA)_" — Claudio Monteverdi's L'Incoronazione di Poppea.
 
-[![puzzle-picture-ROOT — License](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)](LICENSE.md)
+[![puzzle-picture(-ROOT) — License](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)](LICENSE.md)
